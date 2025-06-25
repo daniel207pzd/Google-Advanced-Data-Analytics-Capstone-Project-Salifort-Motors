@@ -1,5 +1,6 @@
-Google Advanced Data Analytics Capstone Project: Salifort Motors (Daniel Poe), 2025-06-24
+Google Advanced Data Analytics Capstone Project: Providing Data-Driven Suggestions for Salifort Motors HR
 ---
+Daniel Poe, 2025-06-24
 
 This is a capstone project that I have completed as part of the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics). This certificate builds on data analytics skills and experience to take careers to the next level. It is designed for graduates of the [Google Data Analytics Certificate](https://www.coursera.org/professional-certificates/google-data-analytics) or people with equivalent data analytics experience. This course enables learners to expand their knowledge through practical, hands-on projects that feature Jupyter Notebook, Python, and Tableau. Course participants can learn the following:
 
@@ -7,6 +8,8 @@ This is a capstone project that I have completed as part of the [Google Advanced
 - Create data visualizations and apply statistical methods to investigate data
 - Build regression and machine learning models to analyze and interpret data
 - Communicate insights from data analysis to stakeholders
+
+This project is also available on [Kaggle](https://www.kaggle.com/code/phildanielpoe/google-advanced-data-analytics-capstone-project).
 
 ## Background
 
