@@ -58,7 +58,7 @@ Since the dataset is imbalanced, F1 scores will be used as the metric instead of
 - `average_monthly_hours`, `satisfaction_level`, `last_evaluation`, `tenure`, and `number_project` are the most important features for predicting whether an employee will leave or not.
 - The random forest model had a higher F1 score than the XGBoost model.
 
-The random forest model was selected as the model to be used for predicting whether an employee will leave the company.
+The random forest model was selected as the model to be used for predicting whether an employee will leave the company. Not only does it have a higher F1 score, it also took less time to run.
 
 ## Conclusion
 The random forest and XGBoost models were built and compared, where the random forest model was selected as the model to be used. The EDA, machine learning models, and feature importances confirmed that employees were indeed overworked.
