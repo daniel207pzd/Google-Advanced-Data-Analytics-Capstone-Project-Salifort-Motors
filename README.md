@@ -66,6 +66,8 @@ The random forest model was selected as the model to be used for predicting whet
 ## Conclusion
 The random forest and XGBoost models were built and compared, where the random forest model was selected as the model to be used. The EDA, machine learning models, and feature importances confirmed that employees were indeed overworked.
 
+To retain employees, I would like to present the following recommendations to the stakeholders:
+
 - Limit the number of projects that employees can work on.
 - Consider promoting employees who have been with the company for at least four years, or conduct further investigation about why four-year tenured employees are so dissatisfied.
 - Either reward employees for working longer hours, or do not require them to do so.
